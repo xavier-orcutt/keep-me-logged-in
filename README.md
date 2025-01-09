@@ -17,7 +17,7 @@ Python should be 3.8 or newer.
 ### 2. Install Microsoft Edge Driver
 Download the Microsoft Edge WebDriver from the [official site](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/). Make sure to download the Stable Channel (x64) version.
 
-### 3. Organize Files on the U Drive
+### 3. Organize Files in the U Drive
 Place the following files in the U drive:
 * `kmli_script.py` - the Python script
 * `msedgedriver.exe` - the Microsoft Edge WebDriver
