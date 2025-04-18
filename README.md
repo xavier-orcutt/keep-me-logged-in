@@ -6,18 +6,21 @@ This Python script uses Selenium to automate browser interactions with Microsoft
 ## Setup
 
 ### 1. Install Python and Selenium
-1. Install Python 3.8 or newer:
-   * Navigate to: P folder > %TEMPORARY% > irmjd > python
-   * Run the Python installer
-   * Check "Add python.exe to PATH"
-   * Click "Customize installation"
-   * Set installation location to U drive
 
-2. Install Selenium by opening Command Prompt and running:
+**Step 1: Install Python**
+- Navigate to: `P:\%TEMPORARY%\irmjd\python`  
+- Run the Python installer  
+- When prompted:  
+  - Check **"Add python.exe to PATH"**  
+  - Click **"Customize installation"**  
+  - Set the installation location to your U drive  
 
-```bash
-pip install selenium==4.25.0
-```
+**Step 2: Install Selenium**
+- Open **Command Prompt**  
+  - You can find the Command Prompt by opening the Start menu and typing `cmd`  
+- Install Selenium by typing:
+  ```bash
+  U:\python.exe -m pip install selenium==4.25.0
 
 ### 2. Install Microsoft Edge Driver
 Download the Microsoft Edge WebDriver from the [official site](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/). Make sure to download the Stable Channel (x64) version.
