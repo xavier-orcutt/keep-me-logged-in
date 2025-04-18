@@ -35,19 +35,19 @@ Storing these files on the U drive allows you to use the script from any compute
 
 ## Executing the Script
 
-1. Open the Command Prompt
+* Open the Command Prompt
 
-2. Run the script using the following command:
+* Run the script using the following command:
    ```bash
    U:\python.exe U:\kmli_script.py
    ```
 
-3. If the script is working properly, a Microsoft Edge session of IHS Practice Management will open
+* If the script is working properly, a Microsoft Edge session of IHS Practice Management will open
 
-4. Log in to IHS Practice Management manually
+* Log in to IHS Practice Management manually
 
-5. Once logged in, press Enter in the terminal to keep the session alive
+* Once logged in, press Enter in the terminal to keep the session alive
 
-6. To stop the script, either:
+* To stop the script, either:
    * Close the browser window
    * Press Ctrl+C in the terminal
